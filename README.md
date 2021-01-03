@@ -1,4 +1,7 @@
-# hello-vue3
+# Vuejs 3 Typescript with Keycloak
+
+Example of vuejs 3 application in typescript with keycloak openid authentication.
+
 
 ## Project setup
 ```
